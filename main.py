@@ -1,0 +1,1 @@
+print ("piedra papel o tijera")

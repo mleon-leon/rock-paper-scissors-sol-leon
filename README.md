@@ -15,3 +15,6 @@ Sol León
 ```bash
 python main.py
 ```
+## Project Status
+
+In development.
